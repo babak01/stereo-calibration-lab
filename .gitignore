@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Build/test
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+
+# Local outputs
+outputs/*
+!outputs/.gitkeep
+
+# Large/private data
+data/raw/
+data/svo/
+*.svo
+*.avi
+*.mov
+*.mkv
+*.mp4
+
+# Private calibration artifacts
+calibration_outputs/private/
+factory_calibration/
+*.conf
+*.local.yaml
+
+# OS
+.DS_Store
+Thumbs.db

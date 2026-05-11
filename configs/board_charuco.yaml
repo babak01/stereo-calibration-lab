@@ -1,0 +1,7 @@
+type: charuco
+dictionary: DICT_5X5_100
+squares_x: 7
+squares_y: 5
+square_length_mm: 35.51
+marker_length_mm: 24.35
+min_common_corners: 8

@@ -1,0 +1,9 @@
+rectification:
+  median_abs_vertical_error_px_pass: 1.0
+  p95_abs_vertical_error_px_pass: 1.5
+calibration:
+  stereo_rms_px_pass: 0.75
+  baseline_error_percent_warn: 2.0
+qc:
+  min_sharpness_laplacian_var: 30.0
+  min_board_area_fraction: 0.01

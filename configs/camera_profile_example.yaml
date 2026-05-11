@@ -1,0 +1,5 @@
+name: example_stereo_camera
+resolution_width: 1280
+resolution_height: 720
+fps: 30
+notes: "Device-agnostic profile. Do not store serial numbers in public configs."
