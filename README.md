@@ -1,5 +1,7 @@
 # Validated Stereo Camera Calibration and 6-DoF Fiducial Pose Estimation
 
+![ChArUco pose demo](https://github.com/babak01/stereo-calibration-lab/releases/latest/download/charuco_pose_demo.gif)
+
 A device-agnostic OpenCV toolkit for stereo camera calibration, rectification validation, and ChArUco-based 6-DoF pose-estimation demos.
 
 This repository is intentionally **vendor-neutral**. It does not include vendor SDK code, private camera serial numbers, factory calibration files, or large raw captures. Users provide synchronized stereo image pairs from any stereo camera system.
