@@ -1,0 +1,17 @@
+{
+    "script": "05_stereo_dataset_qc_charuco.py",
+    "board": "charuco",
+    "dictionary": "DICT_5X5_100",
+    "squares_x": 7,
+    "squares_y": 5,
+    "square_length_mm": 35.0,
+    "marker_length_mm": 24.0,
+    "total_pairs": 159,
+    "selected_pairs": 80,
+    "min_common_corners": 12,
+    "all_csv": "C:\\Users\\babak\\projects\\camera_calibration\\zed_stereo_calibration_capstone\\reports\\tables\\charuco_stereo_qc_all.csv",
+    "selected_csv": "C:\\Users\\babak\\projects\\camera_calibration\\zed_stereo_calibration_capstone\\reports\\tables\\charuco_stereo_qc_selected.csv",
+    "qc_left_dir": "C:\\Users\\babak\\projects\\camera_calibration\\zed_stereo_calibration_capstone\\data\\stereo_pairs_qc\\charuco\\left",
+    "qc_right_dir": "C:\\Users\\babak\\projects\\camera_calibration\\zed_stereo_calibration_capstone\\data\\stereo_pairs_qc\\charuco\\right",
+    "overlay_dir": "C:\\Users\\babak\\projects\\camera_calibration\\zed_stereo_calibration_capstone\\validation_outputs\\rectification\\charuco_detection_overlays"
+}

@@ -147,6 +147,9 @@ python scripts/07_run_charuco_pose_demo.py \
 - Visual odometry / SLAM preprocessing.
 - Calibration station prototyping.
 
+## Notice
+  The codes and text are optimized by AI
+
 ## License
 
 Apache-2.0.
