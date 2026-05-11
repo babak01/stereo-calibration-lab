@@ -131,6 +131,12 @@ python scripts/07_run_charuco_pose_demo.py \
 - `pose_log.csv`: per-frame ChArUco pose values.
 - Demo MP4 or PNG visualizations.
 
+## Example Output
+
+### Real-Time ChArUco 6-DoF Pose Estimation
+
+![Real-time ChArUco pose estimation demo](examples/demo_media/charuco_pose_demo_snapshot.png)
+
 ## Industrial use cases
 
 - Robot workcell camera calibration.
